@@ -1,0 +1,10 @@
+
+[device_code]
+value                          = abh99e3b
+
+
+[target]
+extruder                       = 250
+heaterbed                      = 80
+
+

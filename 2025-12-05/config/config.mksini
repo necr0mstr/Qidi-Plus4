@@ -1,0 +1,10 @@
+
+[device_code]
+value                          = vc7tq3z4
+
+
+[target]
+extruder                       = 250
+heaterbed                      = 80
+
+

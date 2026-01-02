@@ -1,0 +1,10 @@
+
+[device_code]
+value                          = cftxp2vb
+
+
+[target]
+extruder                       = 250
+heaterbed                      = 80
+
+
